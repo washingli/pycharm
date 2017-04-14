@@ -1,5 +1,4 @@
 # file-name: pdf_download.py
-import urllib
 
 __author__ = 'rxread'
 import requests
